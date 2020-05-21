@@ -1,2 +1,3 @@
-/cpp/build/
-/.gitignore
+/build/
+/CMakeLists.txt
+/.vscode/

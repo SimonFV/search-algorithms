@@ -35,7 +35,7 @@ int binarySearch(int *list, int e, int indexMin, int indexMax){
     return -1;
 }
 
-//Interpolation Sort
+//Interpolation Search
 int interpolationSearch(int *list, int e, int indexMin, int indexMax){
     while (indexMax >= indexMin){
 
